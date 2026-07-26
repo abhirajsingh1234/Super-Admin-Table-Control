@@ -2,7 +2,7 @@
 
 A modern, user-friendly web application for managing SQL Server database tables without writing SQL queries. Super Admin Table Control provides an interactive workspace where users can open, organize, and manage multiple database tables simultaneously through an intuitive interface.
 
----
+--
 
 ## Features
 
