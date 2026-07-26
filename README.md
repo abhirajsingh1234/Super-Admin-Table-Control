@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/capture1.PNG" alt="Super Admin Table Control" width="100%"/>
+<img src="images/head.png" alt="Super Admin Table Control" width="100%"/>
 
 # Super Admin Table Control
 
@@ -74,13 +74,16 @@ The project is split into a Node.js/Express backend that handles database connec
 
 ### Interactive Workspace
 
-![Workspace Overview](images/capture1.PNG)
+![Flexible table UI](images/capture1.PNG)
+
 
 ![Multi-table View](images/Capture2.PNG)
 
-![Filtering and Search](images/Capture3.PNG)
 
-![CRUD Operations](images/Capture4.PNG)
+![Customize your UI](images/Capture3.PNG)
+
+
+![Connect to any SQL Server Database](images/Capture4.PNG)
 
 ---
 
