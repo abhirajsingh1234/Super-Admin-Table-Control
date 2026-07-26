@@ -39,13 +39,13 @@ Planned Support
 
 ### Interactive Workspace
 
-![sample](images/capture1.png)
+![sample](images/capture1.PNG)
 
-![sample](images/capture2.png)
+![sample](images/capture2.PNG)
 
-![sample](images/capture3.png)
+![sample](images/capture3.PNG)
 
-![sample](images/capture4.png)
+![sample](images/capture4.PNG)
 
 ---
 
