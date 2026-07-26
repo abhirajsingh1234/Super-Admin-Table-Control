@@ -41,11 +41,11 @@ Planned Support
 
 ![sample](images/capture1.PNG)
 
-![sample](images/capture2.PNG)
+![sample](images/Capture2.PNG)
 
-![sample](images/capture3.PNG)
+![sample](images/Capture3.PNG)
 
-![sample](images/capture4.PNG)
+![sample](images/Capture4.PNG)
 
 ---
 
