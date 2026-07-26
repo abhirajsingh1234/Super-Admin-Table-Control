@@ -19,6 +19,12 @@
       "fromKey": "id",
       "toTable": "Resources",
       "toKey": "provider_id"
+    },
+    {
+      "fromTable": "AI_Models",
+      "fromKey": "ModelId",
+      "toTable": "AI_Resources",
+      "toKey": "ProviderId"
     }
   ]
 }
