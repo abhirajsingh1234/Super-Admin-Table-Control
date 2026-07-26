@@ -1,0 +1,24 @@
+{
+  "connections": [
+    {
+      "connectionString": "DRIVER={ODBC Driver 17 for SQL Server};SERVER=216.48.191.98;DATABASE=SuperAdmin_GenAI_Credentials;UID=ibsadmin;PWD=Viking@@ibs2023;TrustServerCertificate=true;",
+      "databaseName": "SuperAdmin_GenAI_Credentials",
+      "selectedTables": [
+        "AI_Models",
+        "AI_Providers",
+        "AI_Resources",
+        "API_Request_Logs",
+        "Application_Model_Mappings",
+        "Applications"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "fromTable": "Providers",
+      "fromKey": "id",
+      "toTable": "Resources",
+      "toKey": "provider_id"
+    }
+  ]
+}
